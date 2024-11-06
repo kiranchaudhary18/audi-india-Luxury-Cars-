@@ -1,0 +1,222 @@
+.audi1{
+    background-color: white;
+    height: 10vh;
+}.text{
+    color:rgb(71, 73, 73);
+    display: flex;
+    flex-direction: row;
+    column-gap: 2vw;
+    margin-left: 15vw;
+    margin-top: -10vh;
+    font-size: 1.2em;
+}.box{
+    background-color: white;
+    height: 20vh;
+    width:vw;
+}.box2{
+  background-color: black;
+  height: .1vh;
+  width: 4.3vw;
+  margin-left: 6vw;
+  margin-top: -3vh;
+}.box3{
+    background-color: rgb(158, 161, 161);
+    height: 14vh;
+    width: .1vw;
+    margin-left: 5.5vw;
+    margin-top: -10vh;
+}.image{
+    
+    display: flex;
+    flex-direction: row;
+    margin-left: 6vw;
+    margin-top: -16vh;
+    overflow-x: scroll;
+    scrollbar-width: none;
+    width: 85vw;
+}.box4{
+    background-color: rgb(158, 161, 161);
+    height: 15vh;
+    width: .1vw;
+    margin-left: 92vw;
+    margin-top: -16vh;
+ } 
+/* .text2{
+    display: flex;
+    flex-direction: row;
+  
+    margin-left:9vw;
+} */ 
+
+.car{
+    margin-left: 53vw;
+    margin-top: -55vh;
+    font-size: 3em;
+    color:rgb(51, 53, 53)
+}.learn{
+    background-color: black;
+    width: 10vw;
+    height: 7vh;
+    margin-left: 53vw;
+}.car1{
+    
+        margin-left: 53vw;
+        margin-top: -55vh;
+        font-size: 3em;
+        color:rgb(51, 53, 53)
+}.learn1{
+    background-color: black;
+    width: 10vw;
+    height: 7vh;
+    margin-left: 53vw;
+}.car3{
+    background-image: url("E-tronHub-3840X4000 (1).png");
+    height: 230vh;
+    margin-top: 40vh;
+}
+
+ /* .white{
+    background-color: rgb(149, 101, 101);
+    height: 10vh;
+    width: 40vw;
+    margin-top: -80vh;
+    margin-left: 5vw;
+    
+}  */
+
+.map1{
+    background-color: black;
+    width: 34vw;
+    height: 74.5vh;
+    /* margin-top: -15vh; */
+}
+.map{
+    display: flex;
+
+}.audi6{
+    background-color: black;
+    height: 130vh;
+    width: 55vw;
+    margin-top: 10vh;
+}.merge{
+    display: flex;
+    flex-direction: row;
+}.both2{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5.5vw;
+    column-gap: 1vw;
+}.both3{
+    display: flex;
+    flex-direction: row;
+    column-gap: 20vw;
+    margin-left: 5.5vw;
+    font-size: 1.2em;
+}.both4{
+    display: flex;
+    flex-direction: row;
+    column-gap: 24.5vw;
+    margin-left: 5.5vw;
+    margin-top: -3vh;
+}
+.both5{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5.5vw;
+    column-gap: 1vw;
+}.both6{
+    display: flex;
+    flex-direction: row;
+    column-gap: 5.9vw;
+    margin-left: 5.5vw;
+    font-size: 1.1em;
+}.both7{
+    display: flex;
+    flex-direction: row;
+    column-gap: 24.3vw;
+    margin-left: 5.5vw;
+    margin-top: -3vh;
+    font-size: 1.1em;
+}
+.black{
+    background-color:black;
+    height: 115vh;
+    margin-top: 9vh;
+}.text10{
+    color:rgb(186, 179, 179);
+    display: flex;
+    flex-direction: row;
+    column-gap: 9.5vw;
+    font-size: 1.5em;
+    margin-left: 8vw;
+    padding-top: 3vh;
+}.dk{
+    color:white;
+    font-size: .9em;
+    margin-left: 8vw;
+    margin-top: -1vh;
+}
+.dk1{
+    color:white;
+    font-size: .9em;
+    margin-left: 22vw;
+    margin-top: -8vh;
+}
+.dk2{
+    color:white;
+    font-size: .9em;
+    margin-left: 38vw;
+    margin-top: -8vh;
+}
+.dk3{
+    color:white;
+    font-size: .9em;
+    
+    margin-left: 57vw;
+    margin-top: -29vh;
+}
+.dk4{
+    color:white;
+    font-size: .9em;
+    margin-left: 74vw;
+    margin-top: -13vh;
+}.facebook{
+    margin-left: 70vw;
+    margin-top: 15vh;
+    display: flex;
+    flex-direction: row;
+    column-gap: 2vw;
+}
+.box7{
+    background-color: rgb(142, 135, 135);
+    height: .1vh;
+    margin-top: 2vh;
+    width: 83vw;
+    margin-left: 8vw;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    color:white;
+    column-gap: 2vw;
+    margin-left: 19vw;
+    margin-top: -6vh;
+
+}.the{
+    color:white;
+    margin-left: 8vw;
+    font-size: 1.9vh;
+    padding-top: 5vh;
+}
+.the1{
+    color:white;
+    margin-left: 8vw;
+    font-size: 1.9vh;
+    padding-top: 3vh;
+}
+.the2{
+    color:white;
+    margin-left: 8vw;
+    font-size: 1.9vh;
+    padding-top: 3vh;
+}
